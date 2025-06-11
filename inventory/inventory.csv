@@ -1,0 +1,3 @@
+hostname,ip,device_type,username,password
+SW1,192.168.1.2,cisco_ios,admin,cisco123
+SW2,192.168.1.3,cisco_ios,admin,cisco123
